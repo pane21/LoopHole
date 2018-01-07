@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "318796937717",
+    "firebase_url": "https://loophole-7cf18.firebaseio.com",
+    "project_id": "loophole-7cf18",
+    "storage_bucket": "loophole-7cf18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318796937717:android:38c8e5ee229824b8",
+        "android_client_info": {
+          "package_name": "com.pane21.loophole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318796937717-cus7lvbi7m32vft96ct08ipkipto0h4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pane21.loophole",
+            "certificate_hash": "b02db64d20f3d0c488b0aff0466437f2a01af71c"
+          }
+        },
+        {
+          "client_id": "318796937717-abe0dmu8854hgbuqtgi4o0a6tlfdmuf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr1oI4qvc1Ywt7blT4zUywnEJoLVgzv2k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318796937717-abe0dmu8854hgbuqtgi4o0a6tlfdmuf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
